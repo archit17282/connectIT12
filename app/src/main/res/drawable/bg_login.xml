@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--<selector xmlns:android="http://schemas.android.com/apk/res/android">-->
+
+
+    <!---->
+<!--</selector>-->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/background"/>
+
+    <item android:top="220dp">
+        <bitmap
+            android:src="@mipmap/ic_launcher"
+            android:gravity="top|center_horizontal" />
+    </item>
+
+</layer-list>

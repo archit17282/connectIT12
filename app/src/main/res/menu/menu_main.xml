@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.architpanwar.connected.MainActivity">
+    <item
+        android:id="@+id/action_signout"
+        android:orderInCategory="100"
+        android:title="signout"
+        app:showAsAction="never" />
+</menu>
+    <!--@string/action_settings-->
